@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "title": "Test Post",
+      "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/The-stages-of-puppy-growth.jpg?itok=9ptPJwY8",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "Rasif",
+          "comment": " : what a nice dog"
+          
+        },
+        {
+          "id": "01235",
+          "user": "Nijhum",
+          "comment": " : dog is playing"
+        },
+        {
+          "id": "01236",
+          "user": "Jeme",
+          "comment": " : nice dog"
+
+        }
+      ]
+    },
+
+    {
+      "title": "Test Post",
+      "image": "https://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "anu",
+          "comment": " : nice cat"
+          
+        },
+        {
+          "id": "01235",
+          "user": "jeme",
+          "comment": " : i just love it"
+        },
+        {
+          "id": "01236",
+          "user": "Nijhum",
+          "comment": " : i like it"
+
+        }
+      ]
+    },
+
+    {
+      "title": "Test Post",
+      "image": "https://static1.squarespace.com/static/59c0463990baded1a5b678d7/t/5a328fbb8165f59567bd54d8/1513263151434/CP3_5586-edit2.jpg",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "Rasif",
+          "comment": " : bangladeshi tiger"
+          
+        },
+        {
+          "id": "01235",
+          "user": "Jeme",
+          "comment": " : wonderful"
+        },
+        {
+          "id": "01236",
+          "user": "nijhum",
+          "comment": " : nice"
+
+        }
+      ]
+    }
+  ]
+}

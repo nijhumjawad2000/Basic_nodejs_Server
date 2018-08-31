@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+ }
+ .title{
+    display: block;
+    text-align: center;
+    font-size: 48px;
+ }
+ main{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ .postContainer{
+    border: 1px solid black;
+    min-width: 80vw;
+ }
+ .postTitle{
+    margin: 1vh 0vw 1vh 0vw;
+    font-size: 32px;
+ }
+ .postImage{
+    max-width: 60vw;
+    margin: 3vh 9vw 3vh 9vw;
+ }
+ .postImage img{
+    max-width: 100%;
+ }
+ .comments{
+    margin: 3vh 9vw 3vh 9vw;
+ }
+ .postContainer h3{
+    font-size: 30px;
+    font-weight: bold;
+ }
+ .user{
+    font-size: 24px;
+    font-weight: bold;
+ }
